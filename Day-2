@@ -1,0 +1,41 @@
+/*
+Hackerrank Question 2:-
+Take Input from the users and print the sum of the values in C++
+*/
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
+    
+    int a,b,c;
+    
+    cin>>a;
+    cin>>b;
+    cin>>c;
+    cout<<a+b+c; 
+    return 0;
+}
+
+/*
+Hackerrank Question 3:-
+Take Input from the users with different data type and print the each data variable in C++
+*/
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
+    
+    int a,b,c;
+    
+    cin>>a;
+    cin>>b;
+    cin>>c;
+    cout<<a+b+c; 
+    return 0;
+}
