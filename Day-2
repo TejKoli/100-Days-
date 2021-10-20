@@ -23,19 +23,42 @@ int main() {
 Hackerrank Question 3:-
 Take Input from the users with different data type and print the each data variable in C++
 */
+
+
 #include <iostream>
-#include <algorithm>
+#include <cstdio>
 using namespace std;
 
-
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
     
-    int a,b,c;
+    int a;
+    long b;
+    char c;
+    float d;
+    double e;
     
-    cin>>a;
-    cin>>b;
-    cin>>c;
-    cout<<a+b+c; 
+    
+    //in C
+    
+    scanf("%d %ld %c %f %lf",&a,&b, &c, &d, &e);
+    printf("%d\n", a);
+    printf("%ld\n", b);
+    printf("%c\n", c);
+    printf("%f\n", d);
+    printf("%lf\n", e);
+    
+    //in C++
+    
+    //cin>>a,b,c,d,e;
+    
+ 
+    /*cout<<a<<endl;
+    cout<<b<<endl;
+    cout<<c<<endl;
+    cout<<d<<endl;
+    cout<<e<<endl;*/
+    
+    
     return 0;
 }
+
