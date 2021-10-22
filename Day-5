@@ -1,8 +1,12 @@
+/*
+Hackerrank Question 5:-
+Input will contain four integers - a,b,c,d, one per line. And print the maximum value amongst them.
 
+*/
 
-
-
-
+/*
+Answer:-
+*/
 
 #include <iostream>
 #include <cstdio>
