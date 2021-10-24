@@ -1,12 +1,11 @@
+/*
+Hackerrank Question 7:-
+You will be given an array of N integers and you have to print the integers in the reverse order.
+*/
 
-
-
-
-
-
-
-
-
+/*
+Answer:-
+*/
 
 #include <iostream>
 using namespace std;
