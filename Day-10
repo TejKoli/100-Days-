@@ -1,3 +1,13 @@
+/*
+Hackerrank Question 10:-
+---------------Strings----------------
+
+*/
+
+/*
+Answer:-
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
