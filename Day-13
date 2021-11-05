@@ -1,13 +1,16 @@
 /*
 Hackerrank Question 13:-
----Class---
-You have to create a class, named Student, representing the student's details, as mentioned above, and store the data of a student. Create setter and getter functions for each element; that is, the class should at least have following functions:
+---Classes and Objects---
+Create a class named Student with the following specifications:
 
-get_age, set_age
-get_first_name, set_first_name
-get_last_name, set_last_name
-get_standard, set_standard
-Also, you have to create another method to_string() which returns the string consisting of the above elements, separated by a comma(,). You can refer to stringstream for this.
+An instance variable named scores to hold a student's 5 exam scores.
+A void input() function that reads 5 integers and saves them to scores.
+An int calculateTotalScore() function that returns the sum of the student's scores.
+Input Format
+
+Most of the input is handled for you by the locked code in the editor.
+
+In the void Student::input() function, you must read 5 scores from stdin and save them to your scores instance variable.
 */
 
 /*
