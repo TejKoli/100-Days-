@@ -1,5 +1,5 @@
 /*
-Hackerrank Question 9:-
+Hackerrank Question 12:-
 ---Class---
 You have to create a class, named Student, representing the student's details, as mentioned above, and store the data of a student. Create setter and getter functions for each element; that is, the class should at least have following functions:
 
